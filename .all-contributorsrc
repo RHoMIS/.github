@@ -1,5 +1,39 @@
 {
-  "projectName": "RHoMIS 2.0",
-  "files": ["README.md","profile/README.md"],
 
+  "files": [
+    "README.md",
+    "profile/README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "l-gorman",
+      "name": "Léo Gorman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55786252?v=4",
+      "profile": "https://www.turing.ac.uk/people/doctoral-students/leo-gorman",
+      "contributions": [
+        "code",
+        "content",
+        "data",
+        "doc",
+        "example",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "review",
+        "test",
+        "tutorial",
+        "userTesting"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": ".github",
+  "projectOwner": "RHoMIS"
 }
