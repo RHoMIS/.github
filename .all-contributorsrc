@@ -1,5 +1,4 @@
 {
-
   "files": [
     "README.md",
     "profile/README.md"
@@ -27,6 +26,24 @@
         "test",
         "tutorial",
         "userTesting"
+      ]
+    },
+    {
+      "login": "dave-mills",
+      "name": "Dave Mills",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5711101?v=4",
+      "profile": "http://stats4sd.org",
+      "contributions": [
+        "code",
+        "content",
+        "data",
+        "doc",
+        "example",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "platform",
+        "review"
       ]
     }
   ],
