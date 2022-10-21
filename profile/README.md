@@ -24,6 +24,11 @@ We have been working hard on making RHoMIS easier to use. We have built tools th
 
 You can find the source code for all of these tools in this repository!
 
+## Reporting Issues
+
+If you are having any issues with RHoMIS, please report them
+[here](https://github.com/RHoMIS/rhomis-support/issues/new/choose)
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
