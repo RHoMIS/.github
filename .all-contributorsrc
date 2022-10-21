@@ -45,6 +45,20 @@
         "platform",
         "review"
       ]
+    },
+    {
+      "login": "ekuw",
+      "name": "ekuw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76116294?v=4",
+      "profile": "https://github.com/ekuw",
+      "contributions": [
+        "code",
+        "data",
+        "doc",
+        "ideas",
+        "mentoring",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
